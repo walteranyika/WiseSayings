@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/walter/AndroidStudioProjects/WiseSayings/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/walter/AndroidStudioProjects/WiseSayings/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/walter/Downloads/WiseSayings/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/walter/Downloads/WiseSayings/app/src/main/res/menu/main.xml"
+    }
+]

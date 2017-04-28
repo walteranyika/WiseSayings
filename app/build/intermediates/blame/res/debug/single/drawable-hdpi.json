@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/walter/Downloads/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/home/walter/Downloads/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/walter/Downloads/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/home/walter/Downloads/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/walter/AndroidStudioProjects/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/home/walter/AndroidStudioProjects/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/walter/Downloads/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/walter/Downloads/WiseSayings/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/walter/AndroidStudioProjects/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/walter/AndroidStudioProjects/WiseSayings/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/walter/AndroidStudioProjects/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/home/walter/AndroidStudioProjects/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/walter/Downloads/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_favorite.png",
+        "source": "/home/walter/Downloads/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "/home/walter/AndroidStudioProjects/WiseSayings/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_favorite.png",
+        "source": "/home/walter/AndroidStudioProjects/WiseSayings/app/src/main/res/drawable-hdpi/ic_action_favorite.png"
+    }
+]

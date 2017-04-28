@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/walter/.android/build-cache/b9db1e9d2767e64659812fb799da5d1cf6be6932/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/walter/.android/build-cache/86798a4bc92ddf8a6509ce22e6ee9310331d08dc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/walter/.android/build-cache/4c795966984e82a3dc289ab8b37fe9d47aab81eb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/walter/.android/build-cache/8da22b7302f69cc84440d978ca12ac63b754afea/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/walter/.android/build-cache/3c2a05327ab60a56af143a25db482e50569a74fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/walter/.android/build-cache/8a1bc929d79e72ab44fe852c07b6983ed5686d2c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/walter/.android/build-cache/4d534932bc3c9d92413329f42f9eb15e7dac3ea2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/walter/.android/build-cache/74883545c2b02d14e546c2223d797133e6981d37/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.walter.wisesayings.MainActivity
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:15:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.walter.wisesayings.SearchPage
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:22:9-24:80
+	android:label
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:23:13-35
+	android:parentActivityName
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:24:14-78
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:22:19-67
+activity#com.walter.wisesayings.Favourites
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:25:9-27:79
+	android:label
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:26:13-39
+	android:parentActivityName
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:27:13-77
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:25:19-67
+activity#com.walter.wisesayings.Help_About
+ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:28:9-30:79
+	android:label
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:29:13-34
+	android:parentActivityName
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:30:13-77
+	android:name
+		ADDED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml:28:19-67
+uses-sdk
+INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/walter/.android/build-cache/b9db1e9d2767e64659812fb799da5d1cf6be6932/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/walter/.android/build-cache/86798a4bc92ddf8a6509ce22e6ee9310331d08dc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/walter/.android/build-cache/4c795966984e82a3dc289ab8b37fe9d47aab81eb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/walter/.android/build-cache/8da22b7302f69cc84440d978ca12ac63b754afea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/walter/.android/build-cache/3c2a05327ab60a56af143a25db482e50569a74fb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/walter/.android/build-cache/8a1bc929d79e72ab44fe852c07b6983ed5686d2c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/walter/.android/build-cache/4d534932bc3c9d92413329f42f9eb15e7dac3ea2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/walter/.android/build-cache/74883545c2b02d14e546c2223d797133e6981d37/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/Downloads/WiseSayings/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/walter/.android/build-cache/b9db1e9d2767e64659812fb799da5d1cf6be6932/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/walter/.android/build-cache/86798a4bc92ddf8a6509ce22e6ee9310331d08dc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/walter/.android/build-cache/4c795966984e82a3dc289ab8b37fe9d47aab81eb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/walter/.android/build-cache/8da22b7302f69cc84440d978ca12ac63b754afea/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/walter/.android/build-cache/3c2a05327ab60a56af143a25db482e50569a74fb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/walter/.android/build-cache/8a1bc929d79e72ab44fe852c07b6983ed5686d2c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/walter/.android/build-cache/4d534932bc3c9d92413329f42f9eb15e7dac3ea2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/walter/.android/build-cache/74883545c2b02d14e546c2223d797133e6981d37/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/walter/.android/build-cache/fd05166cd09d12b7bc32f38feb556c78d6559aa0/output/AndroidManifest.xml:26:9-47

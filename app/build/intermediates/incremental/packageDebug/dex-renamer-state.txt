@@ -1,0 +1,7 @@
+#Fri Apr 28 09:58:19 EAT 2017
+base.0=/home/walter/Downloads/WiseSayings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d4c88ac19465a0df80cfe0de09cef2be4b208d6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/walter/Downloads/WiseSayings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d018338dea8dda4e093d10699d70cb7d0bde6b1/classes.dex
+base.1=/home/walter/Downloads/WiseSayings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d018338dea8dda4e093d10699d70cb7d0bde6b1
+file.0=/home/walter/Downloads/WiseSayings/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d4c88ac19465a0df80cfe0de09cef2be4b208d6e/classes.dex
